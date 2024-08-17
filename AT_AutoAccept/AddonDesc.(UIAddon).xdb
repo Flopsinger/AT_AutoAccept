@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UIAddon>
+	<Name>AT_AutoAccept</Name>
+	<AutoStart>true</AutoStart>
+	<ScriptFileRefs>
+        <Item href="Scripts\AT_AutoAccept.lua" />
+	</ScriptFileRefs>
+	<MainFormId>Main</MainFormId>
+	<author>Engam</author>
+	<addon_name>AT_AutoAccept</addon_name>
+	<localizedNameFileRef href="name.txt"/>
+	<localizedDescFileRef href="desc.txt"/>
+	<visObjects href="" />
+</UIAddon>
