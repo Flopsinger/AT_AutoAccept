@@ -41,7 +41,7 @@ end
 --------------------------------------------------------------------------------
 
 function Init()
-    common.RegisterEventHandler( OnEventChatMessage, " EVENT_CHAT_MESSAGE" )
+    common.RegisterEventHandler( OnEventChatMessage, "EVENT_CHAT_MESSAGE" )
     LogToChatColor( "AT_AutoAccept: Initalized", "log_yellow" )
 end
 
